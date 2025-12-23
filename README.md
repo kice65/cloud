@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Simple Website Project
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
@@ -41,3 +42,7 @@ A simple, clean website built with **HTML & CSS** to practice **Git, GitHub, and
 
 
 
+=======
+# cloud
+>>>>>>> e92041c9322b378636b8cbdc2acf4e09e672441a
+# cloud
